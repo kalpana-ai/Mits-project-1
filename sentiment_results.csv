@@ -1,0 +1,101 @@
+text,cleaned_text,sentiment,compound_score
+Broke after one use! Fast delivery.,broke one use fast delivery,Negative,-0.4215
+Worst experience! Fast delivery.,worst experience fast delivery,Negative,-0.6249
+Very disappointing! Great design.,disappointing great design,Positive,0.2263
+Complete scam! Fast delivery.,complete scam fast delivery,Negative,-0.5719
+Fantastic quality! Fast delivery.,fantastic quality fast delivery,Positive,0.5574
+Love this so much! Poor customer support.,love much poor customer support,Positive,0.5859
+Works fine. Arrived damaged.,works fine arrived damaged,Negative,-0.2732
+Fantastic quality! Great design.,fantastic quality great design,Positive,0.8271
+Love this so much! Poor customer support.,love much poor customer support,Positive,0.5859
+Fairly good. Arrived damaged.,fairly good arrived damaged,Neutral,0.0
+Works fine. Fast delivery.,works fine fast delivery,Positive,0.2023
+Not bad. Easy to use.,bad easy use,Negative,-0.1531
+It's okay. Tricky setup.,okay tricky setup,Positive,0.0772
+Fantastic quality! Great design.,fantastic quality great design,Positive,0.8271
+Worth every penny! Slow shipping.,worth every penny slow shipping,Positive,0.2263
+Worth every penny! Great design.,worth every penny great design,Positive,0.7184
+Horrible quality! Poor customer support.,horrible quality poor customer support,Negative,-0.5994
+Highly recommend! Good value.,highly recommend good value,Positive,0.8241
+Super happy! Great design.,super happy great design,Positive,0.9136
+Terrible service! Poor customer support.,terrible service poor customer support,Negative,-0.5423
+Super happy! Easy to use.,super happy easy use,Positive,0.8885
+Broke after one use! Arrived damaged.,broke one use arrived damaged,Negative,-0.6908
+Could be better. Great design.,could better great design,Positive,0.7906
+Not bad. Arrived damaged.,bad arrived damaged,Negative,-0.7506
+Amazing product! Great design.,amazing product great design,Positive,0.836
+Worst experience! Tricky setup.,worst experience tricky setup,Negative,-0.6908
+Highly recommend! Poor customer support.,highly recommend poor customer support,Positive,0.2766
+Not bad. Good value.,bad good value,Positive,0.2023
+Not worth it! Great design.,worth great design,Positive,0.7184
+Amazing product! Good value.,amazing product good value,Positive,0.8442
+Horrible quality! Poor customer support.,horrible quality poor customer support,Negative,-0.5994
+Worst experience! Great design.,worst experience great design,Neutral,0.0
+Terrible service! Poor customer support.,terrible service poor customer support,Negative,-0.5423
+Worth every penny! Fast delivery.,worth every penny fast delivery,Positive,0.2263
+It's okay. Good value.,okay good value,Positive,0.7351
+Nothing special. Poor customer support.,nothing special poor customer support,Positive,0.4581
+Amazing product! Fast delivery.,amazing product fast delivery,Positive,0.5859
+Worth every penny! Slow shipping.,worth every penny slow shipping,Positive,0.2263
+Fantastic quality! Poor customer support.,fantastic quality poor customer support,Positive,0.4939
+Does the job. Fast delivery.,job fast delivery,Neutral,0.0
+Not bad. Great design.,bad great design,Positive,0.1531
+Could be better. Good value.,could better good value,Positive,0.802
+Highly recommend! Good value.,highly recommend good value,Positive,0.8241
+Complete scam! Poor customer support.,complete scam poor customer support,Negative,-0.6249
+Terrible service! Easy to use.,terrible service easy use,Negative,-0.0516
+Worth every penny! Tricky setup.,worth every penny tricky setup,Positive,0.0772
+Best purchase ever! Great design.,best purchase ever great design,Positive,0.8519
+Broke after one use! Arrived damaged.,broke one use arrived damaged,Negative,-0.6908
+Not worth it! Great design.,worth great design,Positive,0.7184
+Not worth it! Poor customer support.,worth poor customer support,Positive,0.128
+Highly recommend! Good value.,highly recommend good value,Positive,0.8241
+Terrible service! Easy to use.,terrible service easy use,Negative,-0.0516
+Does the job. Fast delivery.,job fast delivery,Neutral,0.0
+Waste of money! Tricky setup.,waste money tricky setup,Negative,-0.5267
+Fantastic quality! Tricky setup.,fantastic quality tricky setup,Positive,0.4588
+Waste of money! Poor customer support.,waste money poor customer support,Negative,-0.4939
+Best purchase ever! Tricky setup.,best purchase ever tricky setup,Positive,0.5574
+Could be better. Slow shipping.,could better slow shipping,Positive,0.4404
+Works fine. Tricky setup.,works fine tricky setup,Positive,0.0516
+Decent for the price. Poor customer support.,decent price poor customer support,Negative,-0.1027
+Decent for the price. Great design.,decent price great design,Positive,0.6249
+Super happy! Slow shipping.,super happy slow shipping,Positive,0.8225
+Complete scam! Slow shipping.,complete scam slow shipping,Negative,-0.5719
+Exceeded expectations! Good value.,exceeded expectations good value,Positive,0.6486
+Not bad. Arrived damaged.,bad arrived damaged,Negative,-0.7506
+Does the job. Fast delivery.,job fast delivery,Neutral,0.0
+Amazing product! Good value.,amazing product good value,Positive,0.8442
+Worth every penny! Slow shipping.,worth every penny slow shipping,Positive,0.2263
+It's okay. Good value.,okay good value,Positive,0.7351
+Complete scam! Poor customer support.,complete scam poor customer support,Negative,-0.6249
+Very disappointing! Fast delivery.,disappointing fast delivery,Negative,-0.4939
+Nothing special. Slow shipping.,nothing special slow shipping,Negative,-0.3089
+Amazing product! Tricky setup.,amazing product tricky setup,Positive,0.4939
+Love this so much! Great design.,love much great design,Positive,0.8519
+Not bad. Arrived damaged.,bad arrived damaged,Negative,-0.7506
+Decent for the price. Fast delivery.,decent price fast delivery,Neutral,0.0
+Highly recommend! Slow shipping.,highly recommend slow shipping,Positive,0.4201
+Broke after one use! Fast delivery.,broke one use fast delivery,Negative,-0.4215
+Terrible service! Slow shipping.,terrible service slow shipping,Negative,-0.4767
+Fantastic quality! Tricky setup.,fantastic quality tricky setup,Positive,0.4588
+Could be better. Great design.,could better great design,Positive,0.7906
+Broke after one use! Tricky setup.,broke one use tricky setup,Negative,-0.5267
+Fairly good. Easy to use.,fairly good easy use,Positive,0.7003
+Horrible quality! Good value.,horrible quality good value,Positive,0.2023
+Love this so much! Slow shipping.,love much slow shipping,Positive,0.6369
+Exceeded expectations! Great design.,exceeded expectations great design,Positive,0.6249
+Exceeded expectations! Slow shipping.,exceeded expectations slow shipping,Neutral,0.0
+Terrible service! Arrived damaged.,terrible service arrived damaged,Negative,-0.7184
+Exceeded expectations! Tricky setup.,exceeded expectations tricky setup,Negative,-0.1531
+Works fine. Arrived damaged.,works fine arrived damaged,Negative,-0.2732
+Could be better. Easy to use.,could better easy use,Positive,0.7003
+Horrible quality! Easy to use.,horrible quality easy use,Negative,-0.1531
+Not worth it! Great design.,worth great design,Positive,0.7184
+Decent for the price. Tricky setup.,decent price tricky setup,Negative,-0.1531
+Does the job. Fast delivery.,job fast delivery,Neutral,0.0
+Worst experience! Easy to use.,worst experience easy use,Negative,-0.296
+Super happy! Tricky setup.,super happy tricky setup,Positive,0.7906
+Worst experience! Good value.,worst experience good value,Positive,0.0516
+Fairly good. Arrived damaged.,fairly good arrived damaged,Neutral,0.0
+Could be better. Great design.,could better great design,Positive,0.7906
